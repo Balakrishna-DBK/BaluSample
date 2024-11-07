@@ -15,7 +15,7 @@ public class Student {
 	}
 	Student(){
 		sid=202;
-		iname="Krishna";
+		iname="Kiran";
 		igen='M';
 	}
 }
